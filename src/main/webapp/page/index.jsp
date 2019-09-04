@@ -69,12 +69,12 @@
                         <ul class="dropdown-menu">
                             <li><a tabindex="-1" href="#">Settings</a></li>
                             <li class="divider"></li>
-                            <li><a tabindex="-1" href="sign-in.html">Logout</a></li>
+                            <li><a tabindex="-1" href="sign-in.jsp">Logout</a></li>
                         </ul>
                     </li>
                     
                 </ul>
-                <a class="brand" href="index.html"><span class="first">Your</span> <span class="second">Company</span></a>
+                <a class="brand" href="index.jsp"><span class="first">Your</span> <span class="second">Company</span></a>
             </div>
         </div>
     </div>
@@ -87,34 +87,34 @@
                 <div class="sidebar-nav">
                   <div class="nav-header" data-toggle="collapse" data-target="#dashboard-menu"><i class="icon-dashboard"></i>产废方</div>
                     <ul id="dashboard-menu" class="nav nav-list collapse in">
-                        <li><a href="index.html">添加用户</a></li>
-                        <li ><a href="users.html">管理用户</a></li>
-                        <li ><a href="user.html">运输监控</a></li>
-                        <li ><a href="gallery.html">Gallery</a></li>
-                        <li ><a href="calendar.html">Calendar</a></li>
-                        <li ><a href="faq.html">Faq</a></li>
-                        <li ><a href="help.html">Help</a></li>
+                        <li><a href="index.jsp">添加用户</a></li>
+                        <li ><a href="users.jsp">管理用户</a></li>
+                        <li ><a href="user.jsp">运输监控</a></li>
+                        <li ><a href="gallery.jsp">Gallery</a></li>
+                        <li ><a href="calendar.jsp">Calendar</a></li>
+                        <li ><a href="faq.jsp">Faq</a></li>
+                        <li ><a href="help.jsp">Help</a></li>
                         
                     </ul>
                 <div class="nav-header" data-toggle="collapse" data-target="#accounts-menu"><i class="icon-briefcase">处置方</i><span class="label label-info">+10</span></div>
                 <ul id="accounts-menu" class="nav nav-list collapse in">
-                  <li ><a href="sign-in.html">Sign In</a></li>
-                  <li ><a href="sign-up.html">Sign Up</a></li>
-                  <li ><a href="reset-password.html">Reset Password</a></li>
+                  <li ><a href="sign-in.jsp">Sign In</a></li>
+                  <li ><a href="sign-up.jsp">Sign Up</a></li>
+                  <li ><a href="reset-password.jsp">Reset Password</a></li>
                 </ul>
 
                 <div class="nav-header" data-toggle="collapse" data-target="#settings-menu"><i class="icon-exclamation-sign"></i>Error Pages</div>
                 <ul id="settings-menu" class="nav nav-list collapse in">
                   <li ><a href="403.jsp">403 page</a></li>
-                  <li ><a href="404.html">404 page</a></li>
-                  <li ><a href="500.html">500 page</a></li>
-                  <li ><a href="503.html">503 page</a></li>
+                  <li ><a href="404.jsp">404 page</a></li>
+                  <li ><a href="500.jsp">500 page</a></li>
+                  <li ><a href="503.jsp">503 page</a></li>
                 </ul>
 
                 <div class="nav-header" data-toggle="collapse" data-target="#legal-menu"><i class="icon-legal"></i>运输方</div>
                 <ul id="legal-menu" class="nav nav-list collapse in">
-                  <li ><a href="privacy-policy.html">Privacy Policy</a></li>
-                  <li ><a href="terms-and-conditions.html">Terms and Conditions</a></li>
+                  <li ><a href="privacy-policy.jsp">Privacy Policy</a></li>
+                  <li ><a href="terms-and-conditions.jsp">Terms and Conditions</a></li>
                 </ul>
             </div>
         </div>
@@ -183,7 +183,7 @@
                 </tr>
               </tbody>
             </table>
-            <p><a href="users.html">More...</a></p>
+            <p><a href="users.jsp">More...</a></p>
         </div>
     </div>
     <div class="block span6">

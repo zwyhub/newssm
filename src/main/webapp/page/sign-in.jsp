@@ -56,16 +56,39 @@
   <body> 
   <!--<![endif]-->
     
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="container-fluid">
+                <ul class="nav pull-right">
+                    
+                </ul>
+                <a class="brand" href="index.jsp"><span class="first">Your</span> <span class="second">Company</span></a>
+            </div>
+        </div>
+    </div>
+    
 
     <div class="container-fluid">
         
         <div class="row-fluid">
-    <div class="http-error">
-        <h1>Oops!</h1>
-        <p class="info">We are experiencing a bit of a delay.
-        <br>Try again shortly.</p>
-        <p><i class="icon-home"></i></p>
-        <p><a href="index.html">Back to the home page</a></p>
+    <div class="dialog span4">
+        <div class="block">
+            <div class="block-heading">Sign In</div>
+            <div class="block-body">
+                <form>
+                    <label>Username</label>
+                    <input type="text" class="span12">
+                    <label>Password</label>
+                    <input type="password" class="span12">
+                    <a href="index.jsp" class="btn btn-primary pull-right">Sign In</a>
+                    <label class="remember-me"><input type="checkbox"> Remember me</label>
+                    <div class="clearfix"></div>
+                </form>
+            </div>
+        </div>
+        <p class="pull-right" style=""><a href="#" target="blank">Theme by Portnine</a></p>
+        
+        <p><a href="reset-password.jsp">Forgot your password?</a></p>
     </div>
 </div>
 

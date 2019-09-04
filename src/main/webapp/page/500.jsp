@@ -8,12 +8,12 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-      <link rel="stylesheet" type="text/css" href="../lib/bootstrap/css/bootstrap.css">
-      <link rel="stylesheet" type="text/css" href="../lib/bootstrap/css/bootstrap-responsive.css">
-      <link rel="stylesheet" type="text/css" href="../stylesheets/theme.css">
-      <link rel="stylesheet" href="../lib/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="../lib/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../lib/bootstrap/css/bootstrap-responsive.css">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/theme.css">
+    <link rel="stylesheet" href="../lib/font-awesome/css/font-awesome.css">
 
-      <script src="../lib/jquery-1.8.1.min.js" type="text/javascript"></script>
+    <script src="../lib/jquery-1.8.1.min.js" type="text/javascript"></script>
 
     <!-- Demo page code -->
     
@@ -56,39 +56,15 @@
   <body> 
   <!--<![endif]-->
     
-    <div class="navbar">
-        <div class="navbar-inner">
-            <div class="container-fluid">
-                <ul class="nav pull-right">
-                    
-                </ul>
-                <a class="brand" href="index.html"><span class="first">Your</span> <span class="second">Company</span></a>
-            </div>
-        </div>
-    </div>
-    
 
     <div class="container-fluid">
         
         <div class="row-fluid">
-    <div class="dialog span4">
-        <div class="block">
-            <div class="block-heading">Sign In</div>
-            <div class="block-body">
-                <form>
-                    <label>Username</label>
-                    <input type="text" class="span12">
-                    <label>Password</label>
-                    <input type="password" class="span12">
-                    <a href="index.html" class="btn btn-primary pull-right">Sign In</a>
-                    <label class="remember-me"><input type="checkbox"> Remember me</label>
-                    <div class="clearfix"></div>
-                </form>
-            </div>
-        </div>
-        <p class="pull-right" style=""><a href="#" target="blank">Theme by Portnine</a></p>
-        
-        <p><a href="reset-password.html">Forgot your password?</a></p>
+    <div class="http-error">
+        <h1>Oops!</h1>
+        <p class="info">Something happened that we didn't expect.</p>
+        <p><i class="icon-home"></i></p>
+        <p><a href="index.jsp">Back to the home page</a></p>
     </div>
 </div>
 

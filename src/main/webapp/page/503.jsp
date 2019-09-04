@@ -8,12 +8,12 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <link rel="stylesheet" type="text/css" href="../lib/bootstrap/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../lib/bootstrap/css/bootstrap-responsive.css">
-    <link rel="stylesheet" type="text/css" href="../stylesheets/theme.css">
-    <link rel="stylesheet" href="../lib/font-awesome/css/font-awesome.css">
+      <link rel="stylesheet" type="text/css" href="../lib/bootstrap/css/bootstrap.css">
+      <link rel="stylesheet" type="text/css" href="../lib/bootstrap/css/bootstrap-responsive.css">
+      <link rel="stylesheet" type="text/css" href="../stylesheets/theme.css">
+      <link rel="stylesheet" href="../lib/font-awesome/css/font-awesome.css">
 
-    <script src="../lib/jquery-1.8.1.min.js" type="text/javascript"></script>
+      <script src="../lib/jquery-1.8.1.min.js" type="text/javascript"></script>
 
     <!-- Demo page code -->
     
@@ -62,9 +62,10 @@
         <div class="row-fluid">
     <div class="http-error">
         <h1>Oops!</h1>
-        <p class="info">This page doesn't exist.</p>
+        <p class="info">We are experiencing a bit of a delay.
+        <br>Try again shortly.</p>
         <p><i class="icon-home"></i></p>
-        <p><a href="index.html">Back to the home page</a></p>
+        <p><a href="index.jsp">Back to the home page</a></p>
     </div>
 </div>
 
