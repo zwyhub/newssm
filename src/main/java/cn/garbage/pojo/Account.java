@@ -1,6 +1,7 @@
 package cn.garbage.pojo;
 
 public class Account {
+    //主键
     private Integer id;
     private String name;
     private double money;
