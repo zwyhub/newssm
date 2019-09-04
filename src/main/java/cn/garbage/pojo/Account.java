@@ -3,6 +3,7 @@ package cn.garbage.pojo;
 public class Account {
     //主键
     private Integer id;
+    //金额
     private String name;
     private double money;
 
